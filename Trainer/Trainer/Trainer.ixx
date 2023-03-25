@@ -1,4 +1,5 @@
-import std.core;
+#include <compare>
+
 
 import Nier;
 
